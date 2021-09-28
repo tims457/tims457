@@ -2,4 +2,4 @@ Hi, I'm Tim. I'm an aerospace engineer in Colorado. I work on projects in astrod
 
 This is my home for personal projects and code.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tims457?label=Follow&style=social)](https://twitter.com/tims457) [![Medium](https://img.shields.io/badge/-Articles-green)](https://tims457.medium.com/) [![Website](https://img.shields.io/badge/-Website-blue)](https://sullivantm.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tims457?label=Follow&style=social)](https://twitter.com/tims457) [![Website](https://img.shields.io/badge/-Website-blue)](https://sullivantm.com/)
